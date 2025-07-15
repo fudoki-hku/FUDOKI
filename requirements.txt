@@ -9,3 +9,5 @@ torchvision==0.15.2
 accelerate
 sentencepiece
 einops
+torchdiffeq
+matplotlib
