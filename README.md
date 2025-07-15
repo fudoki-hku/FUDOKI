@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
-# FUDOKI
+# FUDOKI: A Multimodal Model Purely Based on Discrete Flow Matching
 
 <p align="left">
   <!-- <a href="#🚀-quick-start"><b>Quick Start</b></a> | -->
