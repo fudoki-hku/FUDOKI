@@ -1,0 +1,11 @@
+omegaconf
+transformers==4.42.4
+timm==1.0.12
+xformers==0.0.20
+tokenizers==0.19.1
+attrdict
+torch==2.0.1
+torchvision==0.15.2
+accelerate
+sentencepiece
+einops
