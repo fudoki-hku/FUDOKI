@@ -63,12 +63,12 @@ pip install -r requirements.txt
 
 #### Multimodal Understanding
 ```
-sh scripts/inference_t2i.sh
+sh scripts/inference_i2t.sh
 ```
 
 #### Text-to-Image Generation
 ```
-sh scripts/inference_i2t.sh
+sh scripts/inference_t2i.sh
 ```
 
 ## 3. Acknowledgement
