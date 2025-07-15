@@ -1,4 +1,4 @@
-CKPT_PATH=/mnt/a100/datasets1/wangjin/pretrained_model/FUDOKI
+CKPT_PATH=/path/to/FUDOKI
 
 torchrun --nproc_per_node 1 inference_i2t_local.py \
     --batch_size 1 \
