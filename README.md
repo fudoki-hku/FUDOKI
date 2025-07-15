@@ -7,7 +7,7 @@
   <!-- <a href="#🚀-quick-start"><b>Quick Start</b></a> | -->
   <a href="https://fudoki-hku.github.io/"><b>HomePage</b></a> |
   <a href="https://arxiv.org/abs/2505.20147v1"><b>arXiv</b></a> |
-  <a href=""><b>Model</b></a> |
+  <a href="https://huggingface.co/LucasJinWang/FUDOKI"><b>Model</b></a> |
   <!-- <a href="#🖊️-citation"><b>Citation</b></a> <br> -->
 </p>
 
@@ -44,7 +44,7 @@ We release FUDOKI to the public to support a broader and more diverse range of r
 
 | Model                 | Download                                                                    |
 |-----------------------|-----------------------------------------------------------------------------|
-| FUDOKI | [🤗 Hugging Face]() |
+| FUDOKI | [🤗 Hugging Face](https://huggingface.co/LucasJinWang/FUDOKI) |
 
 
 ## 3. Quick Start
