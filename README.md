@@ -21,6 +21,7 @@ This repository is the official implementation of [FUDOKI: Discrete Flow-based U
 
 ## News
 
+**2025.07.16**: Release our model and inference code.
 **2025.05.26**: Release our technical report and project page.
 
 
