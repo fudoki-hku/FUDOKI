@@ -5,5 +5,5 @@ torchrun --nproc_per_node 1 inference_t2i_local.py \
     --checkpoint_path $CKPT_PATH \
     --text_embedding_path $CKPT_PATH/text_embedding.pt \
     --image_embedding_path  $CKPT_PATH/image_embedding.pt \
-    --discrete_fm_steps 32 \
+    --discrete_fm_steps 50 \
     --output_dir ./fudoki_output
