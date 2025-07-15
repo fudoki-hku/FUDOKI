@@ -80,7 +80,7 @@ if __name__ == "__main__":
         conversation = [
             {
                 "role": "User",
-                "content": "A beautiful girl, neon"
+                "content": "A rabbit wears a blue scarf."
             },
             {
                 "role": "Assistant",
