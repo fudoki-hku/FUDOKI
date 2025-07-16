@@ -121,7 +121,6 @@ class MixtureDiscreteSoftmaxProbPath(ProbPath):
     def __init__(self, mode, embedding_path):
         self.a = 0.9
         self.c = 3
-        self.lp = 4
         assert mode in ['image', 'text'], f"Unsupported mode probability path: {mode}"
         self.mode = mode
         self.embedding_path = embedding_path
