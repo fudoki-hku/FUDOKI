@@ -6,14 +6,14 @@
 <p align="left">
   <!-- <a href="#🚀-quick-start"><b>Quick Start</b></a> | -->
   <a href="https://fudoki-hku.github.io/"><b>HomePage</b></a> |
-  <a href="https://arxiv.org/abs/2505.20147v2"><b>arXiv</b></a> |
+  <a href="https://arxiv.org/abs/2505.20147"><b>arXiv</b></a> |
   <a href="https://huggingface.co/LucasJinWang/FUDOKI"><b>Model</b></a> |
   <!-- <a href="#🖊️-citation"><b>Citation</b></a> <br> -->
 </p>
 
-This repository is the official implementation of [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147v2).</h1>
+This repository is the official implementation of [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147).</h1>
 
-> [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147v2)  
+> [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147)  
 > Jin Wang<sup>\*</sup>, Yao Lai<sup>\*</sup>, Aoxue Li, Shifeng Zhang, Jiacheng Sun,Ning Kang, Chengyue Wu, Zhenguo Li<sup>†</sup>, Ping Luo<sup>†</sup>  
 > <sup>\*</sup> JW and YL contribute equally (primary contact: <a href="mailto:wj0529@connect.hku.hk">wj0529@connect.hku.hk</a>).  
 > <sup>†</sup> Zhenguo Li and Ping Luo are corresponding authors. 
