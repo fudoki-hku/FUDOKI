@@ -15,7 +15,10 @@ This repository is the official implementation of [FUDOKI: Discrete Flow-based U
 
 > [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147)  
 > Jin Wang<sup>\*</sup>, Yao Lai<sup>\*</sup>, Aoxue Li, Shifeng Zhang, Jiacheng Sun,Ning Kang, Chengyue Wu, Zhenguo Li<sup>†</sup>, Ping Luo<sup>†</sup>  
-> <sup>\*</sup> JW and YL contribute equally (primary contact: <a href="mailto:wj0529@connect.hku.hk">wj0529@connect.hku.hk</a>).  
+> <sup>\*</sup> JW and YL contribute equally (primary contacts:
+<a href="mailto:wj0529@connect.hku.hk">wj0529@connect.hku.hk</a>,
+<a href="mailto:ylai@connect.hku.hk">ylai@connect.hku.hk</a>).
+
 > <sup>†</sup> Zhenguo Li and Ping Luo are corresponding authors. 
 
 
