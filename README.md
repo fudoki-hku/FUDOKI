@@ -78,7 +78,7 @@ sh scripts/inference_t2i.sh
 
 #### Benchmark Evaluations
 
-For evaluating benchmarks on visual understanding, we mainly modify the codebase of [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). Before performing the evaluations, please indicate the CKPT_PATH in VLMEvalKit/run_local.sh and OPENAI_API_KEY/OPENAI_API_BASE in VLMEvalKit/.env.
+For evaluating benchmarks on visual understanding, we mainly modify the codebase of [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). Before performing the evaluations, please specify the CKPT_PATH in VLMEvalKit/run_local.sh and OPENAI_API_KEY/OPENAI_API_BASE in VLMEvalKit/.env.
 
 ```
 cd VLMEvalKit
@@ -92,6 +92,7 @@ We expressed sincerely gratitude for the projects listed following:
 - [Flow Matching](https://github.com/facebookresearch/flow_matching) provides useful implements for discrete flow matching.
 - [Janus-Series](https://github.com/deepseek-ai/Janus) provides useful implements for unified multimodal understanding and generation.
 - [LlamaGen](https://github.com/FoundationVision/LlamaGen) provides helpful implements for visual tokenization.
+- [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) provides convenient tools for evaluating VLMs.
 
 Thanks for their selfless dedication.
 
