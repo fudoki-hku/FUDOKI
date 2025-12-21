@@ -1,30 +1,34 @@
-<!-- markdownlint-disable first-line-h1 -->
-
-<!-- markdownlint-disable html -->
-
-<!-- markdownlint-disable no-duplicate-header -->
-
-# FUDOKI: A Unified Multimodal Model Purely Based on Discrete Flow Matching
+# FUDOKI: A Unified Multimodal Model Purely Based on Discrete Flow Matching (NeurIPS 2025 spotlight)
 
 <p align="left">
-  <!-- <a href="#🚀-quick-start"><b>Quick Start</b></a> | -->
   <a href="https://fudoki-hku.github.io/"><b>HomePage</b></a> |
   <a href="https://arxiv.org/abs/2505.20147"><b>arXiv</b></a> |
-  <a href="https://huggingface.co/LucasJinWang/FUDOKI"><b>Model</b></a> |
-  <!-- <a href="#🖊️-citation"><b>Citation</b></a> <br> -->
+  <a href="https://huggingface.co/LucasJinWang/FUDOKI"><b>Model</b></a>
 </p>
 
-This repository is the official implementation of [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147).`</h1>`
+This repository is the official implementation of  
+**[FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147).**
 
-> [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147)
-> Jin Wang`<sup>`\*`</sup>`, Yao Lai`<sup>`\*`</sup>`, Aoxue Li, Shifeng Zhang, Jiacheng Sun,Ning Kang, Chengyue Wu, Zhenguo Li`<sup>`†`</sup>`, Ping Luo`<sup>`†`</sup>`
-> `<sup>`\*`</sup>` JW and YL contribute equally (`<a href="mailto:wj0529@connect.hku.hk">`wj0529@connect.hku.hk`</a>`,
-> `<a href="mailto:ylai@connect.hku.hk">`ylai@connect.hku.hk`</a>`).
+---
 
-> `<sup>`†`</sup>` Zhenguo Li and Ping Luo are corresponding authors (`<a href="mailto:zhenguol@gmail.com">`zhenguol@gmail.com`</a>`,
-> `<a href="mailto:pluo@cs.hku.hk">`pluo@cs.hku.hk`</a>`).
+> **FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**  
+> Jin Wang<sup>*</sup>, Yao Lai<sup>*</sup>, Aoxue Li, Shifeng Zhang, Jiacheng Sun,  
+> Ning Kang, Chengyue Wu, Zhenguo Li<sup>†</sup>, Ping Luo<sup>†</sup>  
+>
+> <sup>*</sup> Jin Wang and Yao Lai contribute equally  
+> (<a href="mailto:wj0529@connect.hku.hk">wj0529@connect.hku.hk</a>,  
+> <a href="mailto:ylai@connect.hku.hk">ylai@connect.hku.hk</a>)  
+>
+> <sup>†</sup> Corresponding authors  
+> (<a href="mailto:zhenguol@gmail.com">zhenguol@gmail.com</a>,  
+> <a href="mailto:pluo@cs.hku.hk">pluo@cs.hku.hk</a>)
+
 
 ## News
+
+🎉 **2025**: **FUDOKI is selected as a NeurIPS 2025 Spotlight paper (Top 3.5%).**
+
+**2025.07.24**: Paper updated to arXiv v3 with additional experiments.
 
 **2025.07.16**: Release our model and inference demo.
 
